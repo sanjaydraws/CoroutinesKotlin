@@ -1,7 +1,7 @@
 // suspending function asynchronously return a single values, to return multiple 
 // asynchronously computed values Flow is used 
 
-
+// u can flow to receive live updates from database 
 // fun simple():List<Int> = listOf(1,2,3)
 
 // fun main(){
