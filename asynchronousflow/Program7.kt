@@ -1,3 +1,5 @@
+// It can be used to imitate simple
+// transformations like map and filter, as well as implement more complex transformations.
 // Using the transform operator,
 // we can emit arbitrary values an arbitrary number of times.
 // For example, using transform we can emit a string before performing a long-running asynchronous request and follow
